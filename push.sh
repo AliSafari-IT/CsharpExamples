@@ -1,6 +1,6 @@
 printf "\n"
 echo " Updating  remote repository...."
-printf "\n"
+printf "Csharp by Examples\n"
 echo "."
 echo ".."
 echo "..."
@@ -20,7 +20,7 @@ currentBranch=$(git branch | sed -n -e 's/^\* \(.*\)/\1/p')
 git add .
 timestamp=$(date +"%D %T")
 
-git commit -m "Power Energy Modeling: Branch $currentBranch ($timestamp)"
+git commit -m "CsharpExamples: Branch $currentBranch ($timestamp)"
 
 git push
 

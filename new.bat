@@ -1,9 +1,9 @@
 @echo off
-echo Csharp by Examples
+echo Asafarim.com Website
 START  /wait ./new.sh
 
 echo            . . . . . . . . . . . . . . . . . . . .
-echo               The program executed successfully!
+echo A new branch has been craeted and switched to it successfully!
 echo            . . . . . . . . . . . . . . . . . . . .
 
 

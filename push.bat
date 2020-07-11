@@ -1,8 +1,8 @@
 @echo off
-
+echo "Csharp by Examples"
 START  /wait ./push.sh
 
 echo            . . . . . . . . . . . . . . . . . . . .
-echo               The program executed successfully!
+echo               Push is done successfully!
 echo            . . . . . . . . . . . . . . . . . . . .
 

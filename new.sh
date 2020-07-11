@@ -1,5 +1,5 @@
 printf "\n"
-echo" Power Energy Modeling"
+echo "              CsharpExamples"
 printf "\n"
 echo "."
 echo ".."

@@ -3,5 +3,5 @@
 START  /wait ./pull.sh
 
 echo            . . . . . . . . . . . . . . . . . . . .
-echo               The program executed successfully!
+echo               Pulling is done successfully!
 echo            . . . . . . . . . . . . . . . . . . . .

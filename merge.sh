@@ -15,6 +15,7 @@ echo "."
 
 currentBranch=$(git branch | sed -n -e 's/^\* \(.*\)/\1/p')
 
+./push.sh
 
 echo "Get Master and Branch up-to-date"
 git checkout master

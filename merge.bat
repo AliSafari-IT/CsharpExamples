@@ -6,3 +6,4 @@ echo            . . . . . . . . . . . . . . . . . . . .
 echo                   Git merged successfully!
 echo            . . . . . . . . . . . . . . . . . . . .
 
+pause

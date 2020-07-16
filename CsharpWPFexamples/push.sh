@@ -1,5 +1,5 @@
 printf "\n"
-echo "Csharp by Examples"
+echo "Energy Time Series Modeling in C# using rDotNet"
 printf "\n"
 echo "."
 echo ".."
@@ -20,7 +20,7 @@ currentBranch=$(git branch | sed -n -e 's/^\* \(.*\)/\1/p')
 git add .
 timestamp=$(date +"%D %T")
 
-git commit -m "Branch $currentBranch ($timestamp): Csharp by Examples"
+git commit -m "Branch $currentBranch ($timestamp): Energy Time Series Modeling in C# using rDotNet"
 
 git push
 

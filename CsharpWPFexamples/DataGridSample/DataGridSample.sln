@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 10
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridSample", "DataGridSample\DataGridSample.csproj", "{FFEE8AC0-17F8-4628-A294-15034D5BA7CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFEE8AC0-17F8-4628-A294-15034D5BA7CF}.Debug|x86.ActiveCfg = Debug|x86
+		{FFEE8AC0-17F8-4628-A294-15034D5BA7CF}.Debug|x86.Build.0 = Debug|x86
+		{FFEE8AC0-17F8-4628-A294-15034D5BA7CF}.Release|x86.ActiveCfg = Release|x86
+		{FFEE8AC0-17F8-4628-A294-15034D5BA7CF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

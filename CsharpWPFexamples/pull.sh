@@ -1,5 +1,5 @@
 printf "\n"
-echo "Csharp by Examples"
+echo "Energy Time Series Modeling in C# using rDotNet"
 echo "."
 echo ".."
 echo "..."

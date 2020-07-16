@@ -1,6 +1,9 @@
 @echo off
 echo Csharp by Examples
-START  /wait ./push.sh
+
+push
+
+START  /wait ./merge.sh
 
 echo            . . . . . . . . . . . . . . . . . . . .
 echo                   Git merged successfully!

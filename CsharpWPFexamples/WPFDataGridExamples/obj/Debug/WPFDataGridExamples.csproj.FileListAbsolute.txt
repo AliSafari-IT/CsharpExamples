@@ -1,0 +1,6 @@
+C:\Projects\CsharpExamples\CsharpWPFexamples\WPFDataGridExamples\obj\Debug\WPFDataGridExamples.csprojAssemblyReference.cache
+C:\Projects\CsharpExamples\CsharpWPFexamples\WPFDataGridExamples\obj\Debug\Menu.baml
+C:\Projects\CsharpExamples\CsharpWPFexamples\WPFDataGridExamples\obj\Debug\Menu.g.cs
+C:\Projects\CsharpExamples\CsharpWPFexamples\WPFDataGridExamples\obj\Debug\App.g.cs
+C:\Projects\CsharpExamples\CsharpWPFexamples\WPFDataGridExamples\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\CsharpExamples\CsharpWPFexamples\WPFDataGridExamples\obj\Debug\WPFDataGridExamples_MarkupCompile.cache
